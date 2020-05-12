@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Solar System",
+"productVersion": "0.1",
+"dataUrl": "SolarSystemWebGL.data.unityweb",
+"wasmCodeUrl": "SolarSystemWebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "SolarSystemWebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "SolarSystemWebGL.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.6f1"
+}
